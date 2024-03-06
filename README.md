@@ -1,5 +1,4 @@
 # kafka_cluster
 
-kafka config - /kafka/config/server.properties <br><br>
-zookeeper config - /zookeeper/conf/zoo.cfg
+![image](https://github.com/devcourse-final-prj/kafka_cluster/assets/118504009/ee71c716-19da-443d-9879-10f29a498314)
 
